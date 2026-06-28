@@ -1,0 +1,14 @@
+Python Developer
+
+Required Skills
+
+Python
+Machine Learning
+TensorFlow
+Git
+SQL
+Pandas
+NumPy
+Streamlit
+FastAPI
+Deep Learning
