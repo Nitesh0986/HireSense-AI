@@ -1,10 +1,9 @@
 # HireSense-AI
-An AI-powered Resume Screening &amp; Candidate Ranking System using NLP, TF-IDF, Cosine Similarity, and Streamlit to automate resume analysis, skill matching, and candidate ranking.
-# 🧠 HireSense-AI
+HireSense AI is an AI-powered recruitment assistant that analyzes candidate profiles against a job description, extracts relevant skills, computes semantic similarity, and ranks candidates based on overall suitability. The system is designed to help recruiters identify high-quality candidates efficiently.
 
-> **AI-Powered Resume Screening & Candidate Ranking System**
+> Hiresense AI - Intelligent Candidate Discovery & Ranking Platform
 
-HireSense-AI is an AI-based Resume Screening System that automatically analyzes resumes, extracts important information, compares resumes with a job description, and ranks candidates based on relevance using Natural Language Processing (NLP) and Machine Learning techniques.
+HireSense AI is an AI-powered recruitment assistant that analyzes candidate profiles against a job description, extracts relevant skills, computes semantic similarity, and ranks candidates based on overall suitability. The system is designed to help recruiters identify high-quality candidates efficiently.
 
 ---
 
